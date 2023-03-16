@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background-color: rgb(208, 243, 252);
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+
+}
+
+.form-wrapper {
+    background-color: white;
+    padding: 10px;
+    border-radius: 3px;
+}
